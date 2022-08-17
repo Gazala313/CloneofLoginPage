@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", "sans-serif";
+}
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: rgb(225, 235, 238);
+  padding: 100px;
+  max-height: 100px;
+}
+.container {
+  padding: 70px;
+  margin: 20px;
+  background-color: white;
+  height: 500px;
+  width: 600px;
+}
